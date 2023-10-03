@@ -1,1 +1,2 @@
-funcionalidad 005 prueba de inserción
+funcionalidad 005 prueba de inserción.
+otro ejemplo
